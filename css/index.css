@@ -295,7 +295,7 @@ nav.lien ul li:hover
 {
     height: 510px;
     width: 100%;
-    background-color: green;
+    /*background-color: green;*/
     position: relative;
     z-index: 1;
 }
@@ -586,7 +586,6 @@ div.submit
 	align-items: center;
 	width: 500px;
 	height: 100%;
-	background-color: green;
 	overflow: hidden;
 	align-items: center;
 }
